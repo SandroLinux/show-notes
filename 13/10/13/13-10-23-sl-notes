@@ -1,0 +1,64 @@
+# [[Sandro Linux Community Podcast]] - [[2023-10-06]] - Apple Fixes iPhone Overheating Problems 
+## Phone News
+### The Indian Government has been testing the country's emergency alert system on phones
+https://www.indiatoday.in/technology/news/story/indian-govt-just-sent-another-emergency-alert-making-millions-of-phones-sound-alarm-here-is-what-it-means-2446887-2023-10-10
+## iPhone
+### New iPhone 15 Pro overheating reports: Still too hot after iOS 17.0.3 and fresh issues arise after the update 
+https://www.zdnet.com/article/new-iphone-15-pro-overheating-reports-still-too-hot-after-ios-17-0-3-and-fresh-issues-arise-after-the-update/
+
+## Android
+### Honor announces its third foldable of the year
+https://www.theverge.com/2023/10/12/23913011/honor-magic-vs2-price-release-date-specs-features-china-launch
+### Android may soon make it way easier to swap between active SIMs
+https://9to5google.com/2023/10/12/android-swap-sim-quick-settings-tile/
+#### Notes 
+- A quick settings option for switching sims may be added to Android
+
+## PC News
+### Former Arm China Execs Establish New Government-Backed Chip Firm
+https://www.tomshardware.com/news/ex-arm-china-execs-establish-government-backed-chip-firm
+### Russia Aims to Mass Produce 28nm Chips by 2027, 14nm by 2030 
+https://www.tomshardware.com/news/russia-aims-to-mass-produce-28nm-chips-by-2027-14nm-by-2030
+
+## Linux
+### Distro Releases
+### Raspberry Pi OS 2023-10-10
+https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/
+#### Notes:
+- Wayland is now the default display server on the Raspberry Pi 4 and 5
+- Wayfire is now the default compositor on the Raspberry Pi 4 and 5
+- Older Raspberry Pi models are still running X11 and OpenBox window manager
+
+### Ubuntu 23.10
+https://www.tomshardware.com/news/canonical-announces-ubuntu-2310-support-for-raspberry-pi-5
+https://www.omgubuntu.co.uk/2023/10/ubuntu-23-10-new-features-download-link
+#### Notes
+- Official support for the Raspberry Pi 5 added
+- The SiFive HiFive Pro P550 will supported at launch by this release
+- Software like LibreOffice, Thunderbird, Shotwell, and Rhythmbox are no longer preinstalled by default. 
+- To install these pieces of software out of the box you need to select the 'Expanded Installation' option during installation 
+
+
+## Gaming
+### Counter-Strike 2 support for older hardware and Mac is being discontinued
+https://www.techradar.com/gaming/pc-gaming/counter-strike-2-support-for-older-hardware-and-mac-is-being-discontinued-so-valve-can-focus-on-64-bit-windows-and-linux
+#### Notes
+- CS 2 is being discontinued on Mac and older PC hardware
+- Valve say they are doing this to let them focus on 64-bit Windows and Linux
+### Twitch finally prevents users from watching channels they're banned from
+https://www.engadget.com/twitch-finally-prevents-users-from-watching-channels-theyre-banned-from-153845731.html?src=rss
+
+## Broadband and Celullar
+### New Starlink page launched to promote cellular service coming in 2024
+https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity
+## UK
+### Mobile Operator O2 UK Boosts Data on Pay As You Go Plans
+https://www.ispreview.co.uk/index.php/2023/10/mobile-operator-o2-uk-boosts-data-on-pay-as-you-go-plans.html
+### Competition Authority Consults on Vodafone and Three UK Merger
+https://www.ispreview.co.uk/index.php/2023/10/competition-authority-consults-on-vodafone-and-three-uk-merger.html
+### GiffGaff has launched eSim support
+https://www.ispreview.co.uk/index.php/2023/10/mobile-operator-giffgaff-finally-launches-uk-esim-support.html
+
+## Misc
+### GM now has its own API for software developers to make cool apps for its cars
+https://www.theverge.com/2023/10/12/23914060/gm-uservices-api-software-apps-car-sdv
