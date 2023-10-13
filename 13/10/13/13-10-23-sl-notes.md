@@ -15,6 +15,8 @@ https://www.androidauthority.com/google-photo-sphere-mode-pixel-8-3373610/
 https://9to5google.com/2023/10/12/android-swap-sim-quick-settings-tile/
 #### Notes 
 - A quick settings option for switching sims may be added to Android
+### Google introduces new 'Gems' ringtones for Pixel phones
+https://www.androidcentral.com/apps-software/google-pixel-phones-get-gems-ringtones
 
 ## PC News
 ### Former Arm China Execs Establish New Government-Backed Chip Firm
@@ -49,6 +51,8 @@ https://www.techradar.com/gaming/pc-gaming/counter-strike-2-support-for-older-ha
 - Valve say they are doing this to let them focus on 64-bit Windows and Linux
 ### Twitch finally prevents users from watching channels they're banned from
 https://www.engadget.com/twitch-finally-prevents-users-from-watching-channels-theyre-banned-from-153845731.html?src=rss
+### Microsoft finally closes Activision Blizzard deal, welcomes PS5 players
+https://www.androidauthority.com/microsoft-activision-blizzard-deal-close-3375836/
 
 ## Broadband and Celullar
 ### New Starlink page launched to promote cellular service coming in 2024
@@ -66,3 +70,7 @@ https://www.ispreview.co.uk/index.php/2023/10/mobile-operator-giffgaff-finally-l
 https://www.theverge.com/2023/10/12/23914060/gm-uservices-api-software-apps-car-sdv
 ### AMC CEO was target of blackmail and extortion plot
 https://www.theverge.com/2023/10/12/23914298/amc-ceo-blackmail-extortion-plot-memestock-adam-aron
+### Microsoft Outlook will soon write emails for you 
+https://edition.cnn.com/2023/10/12/tech/microsoft-outlook-ai-written-emails/index.html
+### Best Buy will no longer carry physical movies in 2024, and I am no longer whole
+https://www.theverge.com/2023/10/13/23915567/best-buy-discontinue-physical-media-dvd-blu-ray
